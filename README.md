@@ -1,4 +1,4 @@
-# Lectures 17-18: Difference-in-differences in action: BIOL 597
+#  BIOL 597 Lectures 17-18: Difference-in-differences in action
 
 The "wildlife" dataset in this repository contains information about the average number of wildlife collisions/year before (in 2020) and after (in 2022) corridors were installed in the study region. Collisions were recorded at 100 different sites. The dataset contains the following variables:
 - corridor = whether or not a site received a corridor (1=treated) or not (0=untreated).
